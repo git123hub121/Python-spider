@@ -1,0 +1,11 @@
+url = https://www.shanghairanking.cn/_nuxt/static/1606874312/rankings/bcur/2020/payload.js
+
+这个是用到Ajax异步加载了，你用Google开发者工具，点到network里，
+然后在网页选择框里选内容，在左边name下会看到有后缀是.js的文件生成，点右键再新页面打开，
+是个json格式的文件，要的信息就在这个里面，解码就好了
+
+
+具体就不弄了，详情请参考王者荣耀图片爬取
+
+
+json里面是乱码，好奇怪，算了，晚上搞一下吧！

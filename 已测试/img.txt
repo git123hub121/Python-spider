@@ -1,0 +1,2 @@
+因为这里的用xpath获取的图片是lxml类型的，需要对图片进行二进制读取，以二进制保存，而不是以lxml类型保存，否则会提示报错
+<class 'lxml.etree._ElementUnicodeResult'>

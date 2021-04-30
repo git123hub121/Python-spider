@@ -1,0 +1,27 @@
+
+cname: "å»é¢"
+
+ename: 105
+
+hero_type: 3
+
+new_type: 0
+
+skin_name: "æ­£ä¹çè½°|å°ç±å²©é­"
+
+title: "æ­£ä¹çè½°"
+
+https://game.gtimg.cn/images/yxzj/img201606/heroimg/527/527-mobileskin-1.jpg    原始英雄皮肤
+
+https://game.gtimg.cn/images/yxzj/img201606/heroimg/527/52700.png
+
+https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/527/527-bigskin-1.jpg 皮肤
+
+
+https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/hero_num/hero_num-bigskin-hero_number
+
+https://game.gtimg.cn/images/yxzj/img201606/heroimg/518/518-mobileskin-1.jpg
+
+python中序列化，简单讲就是将python的字典转换成json格式字符串，以便进行储存或者传输；
+
+反序列化，简单讲就是将json格式字符串转换成python字典，用于对其进行分析和处理
